@@ -44,6 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+<img width="1173" height="747" alt="image" src="https://github.com/user-attachments/assets/47aeddc6-5a96-4b46-97b3-f98930364a6f" />
 
 
 ### Name: KIRTHICK SHA R
